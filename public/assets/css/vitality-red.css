@@ -35,7 +35,7 @@ input.form-control {
   border-radius: 0 !important;
 }
 input.form-control:focus {
-  border-color: #ef4035;
+  border-color: #0000CD;;
   box-shadow: none;
 }
 .btn,
@@ -47,8 +47,8 @@ input.form-control:focus {
 }
 .btn-primary {
   color: #ffffff;
-  background-color: #ef4035;
-  border-color: #ef4035;
+  background-color: #0000CD;;
+  border-color: #0000CD;;
   -webkit-transition: all 0.5s;
   -moz-transition: all 0.5s;
   transition: all 0.5s;
@@ -86,11 +86,11 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-  background-color: #ef4035;
-  border-color: #ef4035;
+  background-color: #0000CD;;
+  border-color: #0000CD;;
 }
 .btn-primary .badge {
-  color: #ef4035;
+  color: #0000CD;;
   background-color: #ffffff;
 }
 body {
@@ -99,7 +99,7 @@ body {
   font-weight: 300;
 }
 a {
-  color: #ef4035;
+  color: #0000CD;;
   -webkit-transition: all 0.5s;
   -moz-transition: all 0.5s;
   transition: all 0.5s;
@@ -151,7 +151,7 @@ hr.right {
   margin: 15px 0 15px auto;
 }
 hr.colored {
-  border-color: #ef4035;
+  border-color: #0000CD;;
 }
 @media (min-width: 768px) {
   hr {
@@ -166,7 +166,7 @@ hr.colored {
   }
 }
 .text-primary {
-  color: #ef4035;
+  color: #0000CD;;
 }
 .navbar-fixed-top {
   margin-bottom: 0;
@@ -177,7 +177,7 @@ hr.colored {
 .navbar-inverse .navbar-nav > .active > a,
 .navbar-inverse .navbar-nav > .active > a:hover,
 .navbar-inverse .navbar-nav > .active > a:focus {
-  color: #ef4035;
+  color: #0000CD;;
   background-color: white;
   border-radius: 0;
 }
@@ -275,7 +275,7 @@ header {
   padding: 100px 0;
 }
 header .intro-content {
-  color: #D5D66B;
+  color: #FF8C00;
   text-align: center;
   position: relative;
 }
@@ -329,7 +329,7 @@ header .scroll-down .btn:hover {
     background-attachment: scroll;
   }
   header .intro-content {
-    color: #D5D66B;
+    color: #FF8C00;
     text-align: center;
     width: 50%;
     margin: auto;
@@ -470,7 +470,7 @@ aside.cta-quote span.quote {
   margin: auto 0 !important;
   top: 0;
   bottom: 0;
-  background-color: #ef4035 !important;
+  background-color: #0000CD; !important;
   color: white !important;
   -webkit-transition: all 0.5s;
   -moz-transition: all 0.5s;
@@ -551,7 +551,7 @@ aside.cta-quote span.quote {
   margin: auto 0 !important;
   top: 0;
   bottom: 0;
-  background-color: #ef4035 !important;
+  background-color: #0000CD; !important;
   color: white !important;
   -webkit-transition: all 0.5s;
   -moz-transition: all 0.5s;
@@ -666,7 +666,7 @@ aside.cta-quote span.quote {
   margin: auto 0 !important;
   top: 0;
   bottom: 0;
-  background-color: #ef4035 !important;
+  background-color: #0000CD; !important;
   color: white !important;
   -webkit-transition: all 0.5s;
   -moz-transition: all 0.5s;
@@ -807,9 +807,9 @@ aside.cta-quote span.quote {
   transition: all 0.5s;
 }
 .portfolio-filter #filters li .filter.active {
-  background-color: #ef4035;
+  background-color: #0000CD;;
   color: white;
-  border-color: #ef4035;
+  border-color: #0000CD;;
 }
 #portfoliolist .portfolio {
   width: 31%;
@@ -841,7 +841,7 @@ aside.cta-quote span.quote {
   bottom: -75px;
 }
 #portfoliolist .portfolio .portfolio-wrapper .caption .caption-bg {
-  background: #ef4035;
+  background: #0000CD;;
   width: 100%;
   height: 100%;
   position: absolute;
@@ -979,7 +979,7 @@ aside.cta-quote span.quote {
   opacity: 1;
 }
 .floating-label-form-group-with-focus label {
-  color: #ef4035;
+  color: #0000CD;;
 }
 form .row:first-child .floating-label-form-group {
   border-top: 1px solid #e1e1e1;
@@ -1026,7 +1026,7 @@ footer.footer .copyright p.small {
 }
 .btn-outline-light:hover,
 .btn-outline-light:focus {
-  color: #ef4035;
+  color: #0000CD;;
   background: white;
   outline: none;
 }
@@ -1041,8 +1041,8 @@ footer.footer .copyright p.small {
 .btn-outline-dark:hover,
 .btn-outline-dark:focus {
   color: white;
-  background: #ef4035;
-  border-color: #ef4035;
+  background: #0000CD;;
+  border-color: #0000CD;;
   outline: none;
 }
 .btn {
@@ -1069,7 +1069,7 @@ footer.footer .copyright p.small {
   text-transform: none;
 }
 .btn-full-width:hover {
-  background-color: #ef4035;
+  background-color: #0000CD;;
   color: white;
 }
 .btn-full-width:focus {
