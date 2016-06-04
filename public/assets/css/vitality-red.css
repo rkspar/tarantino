@@ -275,7 +275,7 @@ header {
   padding: 100px 0;
 }
 header .intro-content {
-  color: #FF8C00;
+  color: #FF0000;
   text-align: center;
   position: relative;
 }
@@ -329,7 +329,7 @@ header .scroll-down .btn:hover {
     background-attachment: scroll;
   }
   header .intro-content {
-    color: #FF8C00;
+    color: #FF0000;
     text-align: center;
     width: 50%;
     margin: auto;
